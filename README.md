@@ -1,5 +1,4 @@
 # Fried-rice-with-egg
-How to make a bowl of delicious Fried rice with egg
 蛋炒饭,饭蛋盐油,最基本的组成.
 如何处理好这基本的成分,做出一碗美味的蛋炒饭,添加一些辅菜,会对蛋炒饭的口感产生哪些影响?
 目标是:做出一碗闻了流口水,吃了感动到流泪的蛋炒饭!
